@@ -1,4 +1,4 @@
-# flutterappfdp
+# Sentinel
 
 A Flutter based application which consist on an assistance checker
 
