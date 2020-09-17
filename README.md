@@ -4,13 +4,12 @@ A Flutter based application which consist on an assistance checker
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+You can get the Backend Files (AWS) by [Clicking Here](https://github.com/Miguelnj/Sentinel_Backend)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+In order to clone this project, you have to open Android Studio and clone it as a Flutter Project.
+Once you have done that, the next step is to prepare the necessary variables to connect with the Backend:
+  - Cognito Pool and Client ID.
+  - API URL.
+  - AWS Keys for uploading files to S3 Bucket.
+ 
+Once you have done that, the application can be built to be functional. Remember that it would be if you have correctly configured your Backend.
